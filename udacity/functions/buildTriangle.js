@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Programming Quiz: Build A Triangle (5-3)
  */
